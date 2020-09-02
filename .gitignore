@@ -1,2 +1,5 @@
 
 DatingApp-SPA/node_modules/
+DatingApp.API/bin
+DatingApp.API/obj
+DatingApp.API/*.db
